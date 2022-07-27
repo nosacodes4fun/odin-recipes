@@ -1,0 +1,22 @@
+.headline {
+    background-color: rgb(95, 175, 169);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    width:max-content;
+    
+}
+
+.headline.two {
+    font-size: 28px;
+}
+
+ul {
+    list-style-type: square;
+}
+.center {
+    
+    height: auto;
+    display: block;
+    width: 40%;
+}
